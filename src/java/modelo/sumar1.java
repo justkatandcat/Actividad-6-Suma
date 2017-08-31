@@ -45,7 +45,7 @@ public class sumar1 extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Resultado</title>");            
+            out.println("<title>Resultado </title>");            
             out.println("</head>");
             out.println("<body>");  
             out.println("<h1>El resultado es: " + (res) + "</h1>");
